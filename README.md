@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @CloudsLetter
 - 🌱 I’m currently learning Go, Pytorch, NodeJs, Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - ▶️ Ready to active
 <!---
 CloudsLetter/CloudsLetter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

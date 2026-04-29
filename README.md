@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CloudsLetter
-- 🌱 I’m currently learning Go, EcmaScript, Dart, Cpp, C#, ASM, java
+- 🌱 I’m currently learning Go, EcmaScript, Dart, Cpp, C#, ASM, Rust, Kotlin
 - ▶️ Ready to active
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudsLetter&)
